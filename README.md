@@ -31,6 +31,11 @@
 | Explainability | Grad-CAM heatmaps over the final convolutional feature map |
 
 ## Results (test set, 1,695 images, 30 classes)
+## Demo
+
+![Project Demo](https://github.com/ankitmishra105/nsacn-ai/blob/main/Screenshot%202026-11-02%20175100.png)
+
+
 
 | Model | Test Accuracy | Macro Precision | Macro Recall | Macro F1 | Weighted F1 | Best Val Acc |
 |---|---|---|---|---|---|---|

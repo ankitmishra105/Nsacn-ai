@@ -33,6 +33,8 @@
 ## Results (test set, 1,695 images, 30 classes)
 ## Demo
 
+![Result](https://github.com/ankitmishra105/nsacn-ai/blob/main/Screenshot%202026-11-02%20180314.png)
+
 ![Project Demo](https://github.com/ankitmishra105/nsacn-ai/blob/main/Screenshot%202026-11-02%20175100.png)
 
 
